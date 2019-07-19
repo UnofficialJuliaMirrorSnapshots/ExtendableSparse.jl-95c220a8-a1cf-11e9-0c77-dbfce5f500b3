@@ -12,6 +12,4 @@ makedocs(sitename="ExtendableSparse.jl",
              "api.md"
          ])
 
-deploydocs(
-    repo = "github.com/j-fu/ExtendableSparse.jl.git"
-)
+deploydocs(repo = "github.com/j-fu/ExtendableSparse.jl.git")
